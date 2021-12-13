@@ -1,4 +1,4 @@
-#AoC-Template
+# AoC-Template
 
 A template package to automatically get input files for [Advent of Code](https://adventofcode.com/)
 
